@@ -32,7 +32,7 @@ class Mesh_Design(object):
         if mesh == "cone": 
             whatMesh = bpy.ops.mesh.primitive_cone_add()
         if mesh == "torus": 
-            whatMesh = bpy.ops.mesh.primitive_torus_add
+            whatMesh = bpy.ops.mesh.primitive_torus_add()
         if mesh == "cylinder": 
             whatMesh = bpy.ops.mesh.primitive_cylinder_add()
         if mesh == "plane": 
