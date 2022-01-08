@@ -45,7 +45,7 @@ class Mesh_Design(object):
 
 
 meshDesign = Mesh_Design() 
-#meshTransformation = Mesh_Transformation() 
+meshTransformation = Mesh_Transformation() 
 
 #mesh input
 input_one = "sphere"
